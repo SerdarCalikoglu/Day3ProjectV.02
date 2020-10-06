@@ -8,6 +8,6 @@ public class AwesomeTest {
     // i just pull the new change from github that i did not have already
     // and  now my project is in sync  with remote repository
 
-    //Now I made more awesome changes  and I am about the push this back to Githup
+    //Now I made more awesome changes  and I am about the .push this back to Githup
 
 }
